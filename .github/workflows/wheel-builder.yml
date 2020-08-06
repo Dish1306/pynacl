@@ -1,6 +1,5 @@
 name: Wheel Builder
 on:
-  on:
   push:
     branches:
       - master
